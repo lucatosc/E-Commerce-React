@@ -16,5 +16,5 @@ export default function HomePage() {
       <Carousel />
       <Footer />
     </>
-  );
+  );  
 }
