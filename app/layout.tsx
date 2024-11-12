@@ -34,7 +34,7 @@ export const metadata = {
         site: twitterSite
       }
     })
-};
+};   
 
 export default async function RootLayout({ children }: { children: ReactNode }) {
   const cartId = cookies().get('cartId')?.value;
