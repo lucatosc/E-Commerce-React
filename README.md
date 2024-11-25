@@ -1,4 +1,3 @@
-//This is my recent project
 # Next.js Commerce
 
 A high-perfomance, server-rendered Next.js App Router ecommerce application.
